@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap4-boilerplate",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 Basic Boilerplate",
+  "main": "index.js",
+  "repository": "https://github.com/usbpendrive/bootstrap4-boilerplate",
+  "author": "usbpendrive <ferry.fernando@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  }
+}
